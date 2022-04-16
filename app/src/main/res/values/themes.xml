@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.GroceryApp" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#FFD600</item>
+        <item name="colorPrimary">#296D98</item>
         <item name="colorPrimaryVariant">#FFD600</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
