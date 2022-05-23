@@ -17,7 +17,7 @@
     </style>
 
     <style name="TextInputEditTextTheme" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
-        <item name="boxStrokeColor">#296D98</item>
+        <item name="boxStrokeColor">#979FA5</item>
         <item name="boxStrokeWidth">1dp</item>
     </style>
 

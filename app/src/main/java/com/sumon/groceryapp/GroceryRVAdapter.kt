@@ -7,7 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class GroceryRVAdapter (var list: List<GroceryItems>, val groceryItemClickInterface: GroceryItemClickInterface) :
+class   GroceryRVAdapter (var list: List<GroceryItems>, val groceryItemClickInterface: GroceryItemClickInterface) :
     RecyclerView.Adapter<GroceryRVAdapter.GroceryViewHolder>(){
 
     inner class GroceryViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView){

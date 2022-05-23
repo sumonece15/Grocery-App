@@ -16,6 +16,7 @@ data class GroceryItems (
     @ColumnInfo(name = "itemPrice")
     var itemPrice : Int,
 )
+
 {
     @PrimaryKey(autoGenerate = true)
     var id : Int ?= null
